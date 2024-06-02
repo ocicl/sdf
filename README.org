@@ -1,0 +1,9 @@
+* sdf
+
+'signed distance' font atlas generator
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/lispgames/sdf.git |
+| commit  | 52c063d
+| systems | sdf                                      |
+|---------+------------------------------------------|
